@@ -1,0 +1,8 @@
+.details{
+    border: 1px solid black;
+    
+    box-sizing: content-box;
+}
+h3,h5{
+    text-align: center;
+}
